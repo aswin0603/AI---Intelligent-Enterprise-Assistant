@@ -273,5 +273,5 @@ if __name__ == "__main__":
 Thus, we have successfully developed a chatbot with the provided requirements. 
 
 
-### NAME: ASWUN B
+### NAME: ASWIN B
 ### REGISTER NUMBER: 212224110007
